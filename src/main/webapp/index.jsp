@@ -49,7 +49,7 @@
                         <i class="fas fa-user-tie"></i>
                     </div>
                     <div class="instructor-details">
-                        <h2>I'm Dr. shreya sanath achar </h2>
+                        <h2>I'm Dr. Sanath H A </h2>
                         <p>DevOps Engineer</p>
                     </div>
                 </div>
