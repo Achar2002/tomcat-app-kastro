@@ -49,8 +49,8 @@
                         <i class="fas fa-user-tie"></i>
                     </div>
                     <div class="instructor-details">
-                        <h2>I'm Dr. swati achari </h2>
-                        <p>DevOps Trainer cum Engineer</p>
+                        <h2>I'm Dr. Sanath Achar </h2>
+                        <p>DevOps Engineer</p>
                     </div>
                 </div>
                 <div class="hero-stats">
@@ -95,14 +95,14 @@
                     <i class="fas fa-user-graduate"></i>
                 </div>
                 <div class="profile-content">
-                    <h3>Kastro Kiran V</h3>
+                    <h3>sanath achar V</h3>
                     <div class="profile-badges">
                         <span class="badge">AWS Certified</span>
                         <span class="badge">Kubernetes Expert</span>
                         <span class="badge">Docker Captain</span>
                         <span class="badge">Jenkins Specialist</span>
                     </div>
-                    <p>With over 6 years of experience in DevOps and Cloud Engineering, I've helped numerous organizations transform their development and deployment processes. My hands-on approach ensures students gain practical skills that are immediately applicable in real-world scenarios.</p>
+                    <p>With over 1 years of experience in DevOps and Cloud Engineering, I've helped numerous organizations transform their development and deployment processes. My hands-on approach ensures students gain practical skills that are immediately applicable in real-world scenarios.</p>
                     
                     <div class="expertise-areas">
                         <h4>Areas of Expertise</h4>
@@ -151,12 +151,12 @@
     <footer class="footer">
         <div class="footer-content">
             <div class="footer-section">
-                <h4>Learn With KASTRO</h4>
+                <h4>Learn With sanath</h4>
                 <p>Empowering the next generation of DevOps professionals</p>
             </div>
             <div class="footer-section">
                 <h4>Contact</h4>
-                <p><i class="fas fa-envelope"></i> learnwithkastro@gmail.com</p>
+                <p><i class="fas fa-envelope"></i> sanatacharya23@gmail.com</p>
                 <p><i class="fas fa-phone"></i> +1 (555) 123-4567</p>
             </div>
             <div class="footer-section">
