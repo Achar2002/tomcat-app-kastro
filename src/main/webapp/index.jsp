@@ -95,7 +95,7 @@
                     <i class="fas fa-user-graduate"></i>
                 </div>
                 <div class="profile-content">
-                    <h3>sanath achar V</h3>
+                    <h3>Sanath achari</h3>
                     <div class="profile-badges">
                         <span class="badge">AWS Certified</span>
                         <span class="badge">Kubernetes Expert</span>
@@ -157,7 +157,7 @@
             <div class="footer-section">
                 <h4>Contact</h4>
                 <p><i class="fas fa-envelope"></i> sanatacharya23@gmail.com</p>
-                <p><i class="fas fa-phone"></i> +1 (555) 123-4567</p>
+                <p><i class="fas fa-phone"></i> +91 9449447724 </p>
             </div>
             <div class="footer-section">
                 <h4>Follow Us</h4>
